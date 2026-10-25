@@ -33,7 +33,6 @@ Me enfoco en el **desarrollo backend con C# y .NET**, construyendo APIs robustas
 | [EcoRoot](https://github.com/YJGNoboa/EcoRoot) | Plataforma educativa para gestionar y dar seguimiento a actividades agrícolas en huertos escolares. | .NET 10 · ASP.NET Core · Blazor WebAssembly · Clean Architecture |
 | [EcoRoot_SeleniumTest](https://github.com/YJGNoboa/EcoRoot_SeleniumTest) | Pruebas automatizadas de EcoRoot. | C# · Selenium |
 | [MyPersonalBlog](https://github.com/YJGNoboa/MyPersonalBlog) | API REST para un blog personal, con DTOs, validaciones y códigos HTTP correctos. | .NET 10 · EF Core · SQLite |
-| [GestorTorneosAPI](https://github.com/YJGNoboa/GestorTorneosAPI) | _Descripción pendiente_ | C# · .NET |
 
 ---
 

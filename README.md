@@ -1,16 +1,49 @@
-## Hi there 👋
+# ¡Hola! Soy Yanel González 👋
 
-<!--
-**YJGNoboa/YJGNoboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Desarrollo de Software** en el **ITLA** (República Dominicana), en la recta final de la carrera.
+Me enfoco en el **desarrollo backend con C# y .NET**, construyendo APIs robustas y seguras, y en paralelo estoy aprendiendo **QA y pruebas automatizadas**.
 
-Here are some ideas to get you started:
+🎯 **Busco:** pasantía o primer empleo como desarrollador backend .NET o en QA (manual o automation), en un lugar donde pueda seguir creciendo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías
+
+**Uso con frecuencia**
+- C# · .NET · ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server
+- Git · GitHub · Jira
+
+**Conocimientos básicos**
+- Java (programación orientada a objetos)
+- JavaScript
+
+**Aprendiendo ahora**
+- Seguridad en APIs (JWT)
+- Pruebas automatizadas (Selenium)
+- Docker · Azure DevOps
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [EcoRoot](https://github.com/YJGNoboa/EcoRoot) | Plataforma educativa para gestionar y dar seguimiento a actividades agrícolas en huertos escolares. | .NET 10 · ASP.NET Core · Blazor WebAssembly · Clean Architecture |
+| [EcoRoot_SeleniumTest](https://github.com/YJGNoboa/EcoRoot_SeleniumTest) | Pruebas automatizadas de EcoRoot. | C# · Selenium |
+| [MyPersonalBlog](https://github.com/YJGNoboa/MyPersonalBlog) | API REST para un blog personal, con DTOs, validaciones y códigos HTTP correctos. | .NET 10 · EF Core · SQLite |
+| [GestorTorneosAPI](https://github.com/YJGNoboa/GestorTorneosAPI) | _Descripción pendiente_ | C# · .NET |
+
+---
+
+## ♟️ Fuera del código
+
+Me gustan los juegos que me hacen pensar: **ajedrez**, **cubo Rubik** y **sudokus**.
+
+---
+
+## 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yanel-josias-gonzalez-noboa-597a49345/)
+- ✉️ yanelgonzalez752@gmail.com

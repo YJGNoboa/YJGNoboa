@@ -44,5 +44,5 @@ Me gustan los juegos que me hacen pensar: **ajedrez**, **cubo Rubik** y **sudoku
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yanel-josias-gonzalez-noboa-597a49345/)
+- 💼 [LinkedIn](www.linkedin.com/in/yanelgonzalez)
 - ✉️ yanelgonzalez752@gmail.com

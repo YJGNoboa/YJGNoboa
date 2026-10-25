@@ -17,7 +17,7 @@ Me enfoco en el **desarrollo backend con C# y .NET**, construyendo APIs robustas
 
 **Conocimientos básicos**
 - Java (programación orientada a objetos)
-- JavaScript
+- JavaScript- HTML5 - CSS3
 
 **Aprendiendo ahora**
 - Seguridad en APIs (JWT)
